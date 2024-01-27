@@ -1,1 +1,1 @@
-This is a Full Stack application
+This is a Full Stack Ecommerce application.
